@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\bin\Debug\Pr2.BasicStackOperations.exe.config
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\bin\Debug\Pr2.BasicStackOperations.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\bin\Debug\Pr2.BasicStackOperations.pdb
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\obj\Debug\Pr2.BasicStackOperations.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\obj\Debug\Pr2.BasicStackOperations.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr2.BasicStackOperations\obj\Debug\Pr2.BasicStackOperations.pdb

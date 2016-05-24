@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\bin\Debug\Pr3.MaximumElement.exe.config
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\bin\Debug\Pr3.MaximumElement.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\bin\Debug\Pr3.MaximumElement.pdb
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\obj\Debug\Pr3.MaximumElement.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\obj\Debug\Pr3.MaximumElement.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr3.MaximumElement\obj\Debug\Pr3.MaximumElement.pdb

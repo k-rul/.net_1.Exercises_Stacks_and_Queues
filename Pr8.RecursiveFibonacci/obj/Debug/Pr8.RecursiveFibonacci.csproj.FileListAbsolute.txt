@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\bin\Debug\Pr8.RecursiveFibonacci.exe.config
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\bin\Debug\Pr8.RecursiveFibonacci.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\bin\Debug\Pr8.RecursiveFibonacci.pdb
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\obj\Debug\Pr8.RecursiveFibonacci.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\obj\Debug\Pr8.RecursiveFibonacci.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr8.RecursiveFibonacci\obj\Debug\Pr8.RecursiveFibonacci.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\bin\Debug\Pr5.CalculateSequenceWithQueue.exe.config
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\bin\Debug\Pr5.CalculateSequenceWithQueue.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\bin\Debug\Pr5.CalculateSequenceWithQueue.pdb
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\obj\Debug\Pr5.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\obj\Debug\Pr5.CalculateSequenceWithQueue.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr5.CalculateSequenceWithQueue\obj\Debug\Pr5.CalculateSequenceWithQueue.pdb

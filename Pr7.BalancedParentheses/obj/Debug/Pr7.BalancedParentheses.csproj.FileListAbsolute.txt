@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\bin\Debug\Pr7.BalancedParentheses.exe.config
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\bin\Debug\Pr7.BalancedParentheses.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\bin\Debug\Pr7.BalancedParentheses.pdb
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.exe
+D:\Documents\Visual Studio 2015\Projects\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.pdb
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\bin\Debug\Pr7.BalancedParentheses.exe.config
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.exe
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\Pr1.ReverseNumbersWithAStack\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.pdb
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\StacksAndQueues\Pr7.BalancedParentheses\bin\Debug\Pr7.BalancedParentheses.exe.config
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\StacksAndQueues\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.exe
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\StacksAndQueues\Pr7.BalancedParentheses\obj\Debug\Pr7.BalancedParentheses.pdb
