@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\bin\Debug\Pr9.StackFibonacci.exe.config
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\bin\Debug\Pr9.StackFibonacci.exe
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\bin\Debug\Pr9.StackFibonacci.pdb
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\obj\Debug\Pr9.StackFibonacci.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\obj\Debug\Pr9.StackFibonacci.exe
+D:\Documents\GitHub\Advanced C#\1. Exercises - Stacks and Queues\.net_1.Exercises_Stacks_and_Queues\Pr9.StackFibonacci\obj\Debug\Pr9.StackFibonacci.pdb
